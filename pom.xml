@@ -18,7 +18,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.4.1</verπrepoasion>
+      <version>2.9.10.5</verπrepoasion>
     </dependency>
     
     <dependency>
